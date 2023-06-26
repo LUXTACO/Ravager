@@ -66,7 +66,7 @@ pip install pystyle art selenium_profiles selenium-injector undetected-browser
 5. If successful, the script waits for the account creation process to complete and verifies that the account has been successfully created.
 <br><br>
 6. The process continues until the desired number of accounts is generated or an error occurs.
-<br>
+<br><br>
 7. The generated accounts can then be used for various purposes.
 <br>
 </p>
