@@ -23,15 +23,38 @@
 -----
 
 ### <p align="center">⚒ Usage ⚒<p>
+
 <p align="center">
   <strong>
-  1. Run the script in a Python environment<br><br>
-  2. Follow the prompts to enter the desired number of accounts to generate per thread and the number of threads to use.<br><br>
-  3. Choose whether to use proxies or not (currently disabled in the code).<br><br>
-  4. Select either Selenium or Undetected for browser automation.<br><br>
-  5. The script will then start generating Discord accounts.<br><br
+    <br>
+    1. Run the script in a Python environment<br><br>
+    2. Follow the prompts to enter the desired number of accounts to generate per thread and the number of threads to use.<br><br>
+    3. Choose whether to use proxies or not (currently disabled in the code).<br><br>
+    4. Select either Selenium or Undetected for browser automation.<br><br>
+    5. The script will then start generating Discord accounts.<br><br
   </strong>
     <p align="center">
-    <img src="./media/ravager.png" style="width: 35%; height: auto;">
+      <img src="./media/ravager.png" style="width: 35%; height: auto;">
     </p>
 </p>
+
+----
+
+### <p align="center">🧬 Installation 🧬</p>
+
+<p align="center">
+  Install Python: If you don't have Python installed, download and install it from the official Python website (https://www.python.org).
+  <br><br>
+  Install required libraries: The script relies on several external libraries. You can install them using pip, the Python package installer. Open a terminal or command prompt and run the following command:
+</p>
+
+```python
+pip install pystyle art selenium_profiles selenium-injector undetected-browser
+```
+
+<p align="center">
+  <br>
+  This will install the necessary libraries for running the script.
+</p>
+
+----
