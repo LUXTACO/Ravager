@@ -55,29 +55,31 @@ pip install pystyle art selenium_profiles selenium-injector undetected-browser
 
 ### <p align="center">⛑ How it works ⛑</p>
 <p align="center">
-1. The script first imports the required libraries and defines some variables and functions.
-<br><br>
-2. The main() function is called, which displays a banner and prompts the user for input regarding the number of accounts and threads, as well as the choice of browser automation library.
-<br><br>
-3. Based on the user's input, the selenium() function is called for each thread. This function initializes the browser driver (Selenium or Undetected) and starts the browser.
-<br><br>
-4. Within the selenium() function, the script retrieves an email address from a text file, generates a random password and username, and enters the registration information on the Discord registration page using the browser automation library.
-<br><br>
-5. If successful, the script waits for the account creation process to complete and verifies that the account has been successfully created.
-<br><br>
-6. The process continues until the desired number of accounts is generated or an error occurs.
-<br><br>
-7. The generated accounts can then be used for various purposes.
-<br>
+    1. The script first imports the required libraries and defines some variables and functions.
+    <br><br>
+    2. The main() function is called, which displays a banner and prompts the user for input regarding the number of accounts and threads, as well as the choice of browser automation library.
+    <br><br>
+    3. Based on the user's input, the selenium() function is called for each thread. This function initializes the browser driver (Selenium or Undetected) and starts the browser.
+    <br><br>
+    4. Within the selenium() function, the script retrieves an email address from a text file, generates a random password and username, and enters the registration information on the Discord registration page using the browser automation library.
+    <br><br>
+    5. If successful, the script waits for the account creation process to complete and verifies that the account has been successfully created.
+    <br><br>
+    6. The process continues until the desired number of accounts is generated or an error occurs.
+    <br><br>
+    7. The generated accounts can then be used for various purposes.
+    <br>
 </p>
 
 ----
 
 ### <p align="center">📌 Disclaimer 📌</p>
 
-<br><br>
-* Please use this program only for educational purposes.
-* It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.
-<br><br>
+<p align="center">
+    Please use this program only for educational purposes.
+    <br><br>
+    It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.
+    <br><br>
+</p>
 
 -----
