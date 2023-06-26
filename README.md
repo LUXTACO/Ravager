@@ -48,7 +48,6 @@ pip install pystyle art selenium_profiles selenium-injector undetected-browser
 ```
 
 <p align="center">
-  <br>
   This will install the necessary libraries for running the script.
 </p>
 
