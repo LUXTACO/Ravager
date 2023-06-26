@@ -67,7 +67,7 @@ def main():
     
     clear()
     print(Colorate.Diagonal(Colors.DynamicMIX((blue, dark)), Center.XCenter(banner)))
-    ctypes.windll.kernel32.SetConsoleTitleW("Ravager")
+    ctypes.windll.kernel32.SetConsoleTitleW("Ravager - By @LUXTACO")
     
     logs.append(f"(#) Succesfully printed the banner")
     
